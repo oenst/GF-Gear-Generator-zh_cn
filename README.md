@@ -26,7 +26,7 @@
 你可以通过以下方式获取汉化文件：
 
 - **克隆本仓库**  
-  `git clone https://github.com/你的GitHub用户名/GF-Gear-Generator-zh-CN.git`
+  `git clone https://github.com/oenst/GF-Gear-Generator-zh-CN.git`
 - **直接下载 ZIP**  
   点击仓库页面右上角的 `Code` → `Download ZIP` 并解压
 
